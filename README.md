@@ -44,3 +44,6 @@ The following Python libraries are required to run the code in this project:
 
 # Conclusion
 Both Linear Regression and Lasso Regression models performed well in predicting the selling price of used cars. The Lasso Regression model showed slightly better performance on the test data
+
+# Code
+You can find the code for this project in the car_price_prediction.ipynb notebook.
